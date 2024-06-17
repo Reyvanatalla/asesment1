@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiket Kereta</string>
+    <string name="nama">Customer Name</string>
+    <string name="intro">This application is an application that can help users collect train ticket data</string>
+    <string name="harga_tiket">ticket price</string>
+    <string name="pesan_tiket">Book Ticket</string>
+    <string name="bagikan_template">"         Name : %1$s          Price Tiket : %2$s          Destinations : %3$s     "</string>
+    <string name="jakarta_bandung">Jakarta - Bandung</string>
+    <string name="Karawang_bekasi">Karawang - Bekasi</string>
+    <string name="Karawang_bandung">Karawang - Bandung</string>
+    <string name="diklik">%1$s Sedang %2$s</string>
+    <string name="bagikan">Share</string>
+    <string name="input_invalid">Can not be empty</string>
+</resources>

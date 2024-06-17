@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tiket Kereta</string>
+    <string name="nama">Nama Pembeli</string>
+    <string name="intro">Aplikasi ini merupakan aplikasi yang dapat membantu user untuk pendataan tiket kereta api</string>
+    <string name="harga_tiket">Harga Tiket</string>
+    <string name="pesan_tiket">Pesan Tiket</string>
+    <string name="bagikan_template" translatable="false">
+        Name : %1$s\n
+        Price Tiket : %2$s\n
+        Destinations : %3$s
+    </string>
+    <string name="jakarta_bandung">Jakarta - Bandung</string>
+    <string name="Karawang_bekasi">Karawang - Bekasi</string>
+    <string name="Karawang_bandung">Karawang - Bandung</string>
+    <string name="diklik">%1$s Clicking %2$s</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+</resources>
